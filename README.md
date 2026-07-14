@@ -1,10 +1,5 @@
 # Multi-PDF ChatBot (LangChain - Google Gemini)
 
-## Acknowledgement
-I would like to extend my sincere thanks to  [Krish Naik](https://github.com/krishnaik06)  for his invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without his educational resources.
-
- <br>
-
 ## About the Project
 The ***Multi-PDF ChatBot*** is an AI-powered application that allows users to upload multiple PDF files and ask questions based on their content. It leverages **[Google Gemini AI](https://deepmind.google/technologies/gemini/)** for intelligent question-answering and utilizes **[FAISS (Facebook AI Similarity Search)](https://ai.meta.com/tools/faiss/)** for efficient text retrieval and similarity search. The chatbot extracts and processes text from PDFs, converts it into vector embeddings, and provides detailed answers using an advanced conversational AI model.
 
